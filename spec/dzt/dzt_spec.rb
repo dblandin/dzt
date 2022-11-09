@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'RMagick'
+require 'rmagick'
 include Magick
 
 describe DZT do
